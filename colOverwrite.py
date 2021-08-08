@@ -3,10 +3,6 @@
 # We need the base and lookup dataframes as input, the column names in the base dataframe to be overwritten on,
 # Import required packages
 #
-import math
-import os
-from os import rename
-
 import pandas as pd
 
 
